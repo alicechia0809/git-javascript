@@ -1,2 +1,2 @@
 # Git JavaScript
-## chih chin chia
+## Chih Chin Chia
